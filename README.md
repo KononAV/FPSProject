@@ -5,4 +5,8 @@
 This project is a coursework developed for the Basics of Algorithms and Programming course at Minsk Radioengineering College.
 *Detailed information, including UML diagrams and a full project description, can be found in the oaip_coursework.pdf document.*
  ## *Summary*
- 
+FPSProject is a local multiplayer split-screen game developed in Unreal Engine 5.5. The game supports two players, one using a keyboard and mouse, and the other using a game controller.
+
+Players compete to eliminate AI-controlled enemies and earn points. Scores are saved locally in a binary file.
+
+The game also includes a single-player mode for solo gameplay.
