@@ -5,16 +5,19 @@
 This project is a coursework developed for the Basics of Algorithms and Programming course at Minsk Radioengineering College.
 
 *Detailed information, including UML diagrams and a full project description, can be found in the oaip_coursework.pdf document.*
- ## *Summary*
-FPSProject is a local multiplayer split-screen game developed in Unreal Engine 5.5. The game supports two players, one using a keyboard and mouse, and the other using a game controller.
+## *Summary*
+**FPSProject** is a local split-screen multiplayer first-person shooter developed in **Unreal Engine 5.5**. The game supports two players — one with mouse + keyboard, the other with a controller.
 
-Players compete to eliminate AI-controlled enemies and earn points. Scores are saved locally in a binary file.
+Players must eliminate AI-controlled enemies and compete for the highest score. Points are saved locally in a binary file.
 
-The game also includes a single-player mode for solo gameplay.
+A single-player mode is also available for solo gameplay.
 
-3D models for both players and enemies are sourced from Mixamo. Maps assets sare sourced from from Epic Game store.
+### Technologies & Assets
 
-Blueprints are kept minimal and are only used where convenient. The majority of the project is implemented using C++.
+- **3D Models** — Players and enemies are animated using [Mixamo](https://www.mixamo.com/).
+- **Maps & Environment** — Assets sourced from the **Epic Games Store**.
+- **Codebase** — Project is written mostly in **C++**, with minimal use of Blueprints where convenient.
+
 
 <details>
   <summary>Show Gameplay Videos..</summary>
@@ -36,7 +39,7 @@ Blueprints are kept minimal and are only used where convenient. The majority of 
     <img src="https://img.youtube.com/vi/qgjF8SRwaDY/0.jpg" width="400" alt="Gameplay Video 2">
   </a>
   <br/>
-  <i align="center">*click on vid to open*</i>
+  <i>*click on vid to open*</i>
 </p>
 
 
