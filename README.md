@@ -18,13 +18,20 @@ Blueprints are kept minimal and are only used where convenient. The majority of 
 
 <details>
   <summary>Show Gameplay Videos..</summary>
+  All gameplay screenshots presented in the oaip_coursework.pdf document supplement A.
 
    <p align="center">
   <a href="https://youtu.be/dY1Q17hXAIc" target="_blank">
     <img src="https://img.youtube.com/vi/dY1Q17hXAIc/0.jpg" width="400" alt="Gameplay Video 1">
   </a>
   <br/>
-  <i>Video 1 — Main Gameplay</i>
+</p>
+
+<p align="center">
+  <a href="https://youtu.be/qgjF8SRwaDY" target="_blank">
+    <img src="https://img.youtube.com/vi/qgjF8SRwaDY/0.jpg" width="400" alt="Gameplay Video 2">
+  </a>
+  <br/>
 </p>
 
 
