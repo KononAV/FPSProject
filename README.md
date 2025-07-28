@@ -11,3 +11,5 @@ FPSProject is a local multiplayer split-screen game developed in Unreal Engine 5
 Players compete to eliminate AI-controlled enemies and earn points. Scores are saved locally in a binary file.
 
 The game also includes a single-player mode for solo gameplay.
+
+3D models for both players and enemies are sourced from Mixamo. Maps assets sare sourced from from Epic Game store
