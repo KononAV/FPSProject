@@ -12,4 +12,4 @@ Players compete to eliminate AI-controlled enemies and earn points. Scores are s
 
 The game also includes a single-player mode for solo gameplay.
 
-3D models for both players and enemies are sourced from Mixamo. Maps assets sare sourced from from Epic Game store
+3D models for both players and enemies are sourced from Mixamo. Maps assets sare sourced from from Epic Game store.
