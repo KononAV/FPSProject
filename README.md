@@ -13,3 +13,18 @@ Players compete to eliminate AI-controlled enemies and earn points. Scores are s
 The game also includes a single-player mode for solo gameplay.
 
 3D models for both players and enemies are sourced from Mixamo. Maps assets sare sourced from from Epic Game store.
+
+Blueprints are kept minimal and are only used where convenient. The majority of the project is implemented using C++.
+
+<details>
+  <summary>🎮 Show Gameplay Videos</summary>
+
+  <p align="center">
+    <a href="https://youtu.be/UCK7Kle86KE" target="_blank">
+      <img src="https://img.youtube.com/vi/UCK7Kle86KE/0.jpg" width="400" alt="Gameplay Video Thumbnail">
+    </a>
+    <br/>
+    <i>Click the image to watch on YouTube</i>
+  </p>
+
+</details>
