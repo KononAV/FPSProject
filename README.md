@@ -17,14 +17,14 @@ The game also includes a single-player mode for solo gameplay.
 Blueprints are kept minimal and are only used where convenient. The majority of the project is implemented using C++.
 
 <details>
-  <summary>🎮 Show Gameplay Videos</summary>
+  <summary>Show Gameplay Videos..</summary>
 
-  <p align="center">
+   <p align="center">
     <a href="https://youtu.be/UCK7Kle86KE" target="_blank">
-      <img src="https://img.youtube.com/vi/UCK7Kle86KE/0.jpg" width="400" alt="Gameplay Video Thumbnail">
+      <img src="https://img.youtube.com/vi/UCK7Kle86KE/0.jpg" width="400" alt="Gameplay Video 1">
     </a>
     <br/>
-    <i>Click the image to watch on YouTube</i>
+    <i>Video 1 — Main Gameplay</i>
   </p>
 
 </details>
