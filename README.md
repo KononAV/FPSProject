@@ -20,11 +20,12 @@ Blueprints are kept minimal and are only used where convenient. The majority of 
   <summary>Show Gameplay Videos..</summary>
 
    <p align="center">
-    <a href="https://youtu.be/dY1Q17hXAIc" target="_blank">
-      <img src="https://youtu.be/dY1Q17hXAIc)/0.jpg" width="400" alt="Gameplay Video 1">
-    </a>
-    <br/>
-    <i>Video 1 — Main Gameplay</i>
-  </p>
+  <a href="https://youtu.be/dY1Q17hXAIc" target="_blank">
+    <img src="https://img.youtube.com/vi/dY1Q17hXAIc/0.jpg" width="400" alt="Gameplay Video 1">
+  </a>
+  <br/>
+  <i>Video 1 — Main Gameplay</i>
+</p>
+
 
 </details>
