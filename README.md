@@ -28,6 +28,7 @@ Blueprints are kept minimal and are only used where convenient. The majority of 
     <img src="https://img.youtube.com/vi/dY1Q17hXAIc/0.jpg" width="400" alt="Gameplay Video 1">
   </a>
   <br/>
+     <i>*click on vid to open*</i>
 </p>
 
 <p align="left">
@@ -35,6 +36,7 @@ Blueprints are kept minimal and are only used where convenient. The majority of 
     <img src="https://img.youtube.com/vi/qgjF8SRwaDY/0.jpg" width="400" alt="Gameplay Video 2">
   </a>
   <br/>
+  <i>*click on vid to open*</i>
 </p>
 
 
