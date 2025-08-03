@@ -24,8 +24,6 @@ A single-player mode is also available for solo gameplay.
 <details>
   <summary>Show Gameplay Videos..</summary>
   
-<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/1e50c238-2eed-4b2a-bf32-5ad2c414106d" />
-  
   *All gameplay screenshots presented in the oaip_coursework.pdf document supplement A.*
   
 
