@@ -19,7 +19,7 @@ A single-player mode is also available for solo gameplay.
 - **3D Models** — Players and enemies are animated using [Mixamo](https://www.mixamo.com/).
 - **Maps & Environment** — Assets sourced from the **Epic Games Store**.
 - **Codebase** — Project is written mostly in **C++**, with minimal use of Blueprints where convenient.
-- 
+
 <img width="854" height="476" alt="image" src="https://github.com/user-attachments/assets/36053821-2d86-4eb3-82aa-5a646ec12b03" />
 
 
