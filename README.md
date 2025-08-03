@@ -11,6 +11,7 @@ This project is a coursework developed for the Basics of Algorithms and Programm
 
 Players must eliminate AI-controlled enemies and compete for the highest score. Points are saved locally in a binary file.
 
+
 A single-player mode is also available for solo gameplay.
 
 ### Technologies & Assets
@@ -22,7 +23,8 @@ A single-player mode is also available for solo gameplay.
 
 <details>
   <summary>Show Gameplay Videos..</summary>
-
+  
+<img width="2000" height="2828" alt="image" src="https://github.com/user-attachments/assets/1e50c238-2eed-4b2a-bf32-5ad2c414106d" />
   
   *All gameplay screenshots presented in the oaip_coursework.pdf document supplement A.*
   
