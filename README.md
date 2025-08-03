@@ -20,7 +20,7 @@ A single-player mode is also available for solo gameplay.
 - **Maps & Environment** — Assets sourced from the **Epic Games Store**.
 - **Codebase** — Project is written mostly in **C++**, with minimal use of Blueprints where convenient.
 - 
-<img width="854" height="476" alt="image" src="https://github.com/user-attachments/assets/13e0b10a-05e8-4a7b-9e9d-7173c92e37cc" />
+<img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/13e0b10a-05e8-4a7b-9e9d-7173c92e37cc" />
 
 <details>
   <summary>Show Gameplay Videos..</summary>
